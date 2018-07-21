@@ -4,6 +4,4 @@ This is a README file
 
 Edit on example branch
 
-Now editing on update-readme branch
-
-Update locally.
+Updates made on master on GitHub before rebase
